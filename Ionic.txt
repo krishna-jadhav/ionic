@@ -1,0 +1,93 @@
+node --version 
+npm --version
+git --version
+
+npm install -g ionic
+
+npm install -g ionic cordova
+
+npm uninstall --save node-uuid
+npm install --save uuid
+
+
+
+npm ls minimatch
+
+npm WARN deprecated node-uuid@1.4.7: use uuid module instead
+npm WARN deprecated tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+npm WARN deprecated node-uuid@1.4.7: use uuid module instead
+
+npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated minimatch@0.3.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+
+npm WARN deprecated node-uuid@1.4.7: use uuid module instead
+
+/*************************/
+npm install -g phonegap@latest
+
+-> then i ran following commands:
+npm update minimatch@3.0.2
+npm update lodash@3.0.0
+npm update graceful@3.0.0
+
+npm install -g minimatch@3.0.2
+
+
+
+
+npm install -g minimatch@3.0.2
+
+npm clean cache
+npm uninstall -g cordova
+npm install -g cordova
+
+
+npm install express*********************
+npm install -g cordova
+https://github.com/driftyco/ionic2-app-base/archive/master.zip
+
+
+Ionic start Myproject tabs --v2 --ts
+
+ionic serve**************************************
+
+ionic g page memberlogin
+
+
+www\buld\main.js
+
+
+///////////////////////////////////////
+[14:03:33]  watch failed: A watch configured to watch the following paths failed to start. It likely that a file
+            referenced does not exist: C:\Users\SA\myApp\src\**\*.(ts|html|s(c|a)ss)
+
+
+new pages //////////////////////\
+
+ionic start
+
+
+For menu (main.js)
+
+cd ..
+
+For Ionic build browser*************/
+
+Ionic build browser
+ =================================================================
+
+ ---------- -npm install -d ------- 
+ -------- npm install express ------ 
+------------ npm init -y -----------
+
+  no such file or directory, open 'C:\Users\Aman\package.json'
+
+npm cache clean --force 
+Then:
+npm install -g @angular/cli
+
+
+C:\Users\Aman\AppData\Local\Android\Sdk\platform-tools
+C:\Users\Aman\AppData\Local\Android\Sdk\tools
+
+=================================================================
